@@ -1,0 +1,57 @@
+[
+
+	{
+		"group" : "Group A",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Russia, Saudi Arabia, Egypt, Uruguay",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	
+	{
+		"group" : "Group B",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Portugal, Spain, Morocco, Iran",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	
+	{
+		"group" : "Group C",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "France, Australia, Peru, Denmark",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	
+	{
+		"group" : "Group D",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Argentina, Iceland, Croatia, Nigeria",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+
+	{
+		"group" : "Group E",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Brazil, Switzerland, Costa Rica, Serbia",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	{
+		"group" : "Group F",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Germany, Mexico, Sweden, South Korea",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	
+	{
+		"group" : "Group G",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Belgium, Panama, Tunisia, England",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}, 
+	
+	{
+		"group" : "Group H",
+		"teamNo" : "1. 2. 3. 4.",
+		"teamName" : "Poland, Senegal, Colombia, Japan",
+		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+	}
+]
