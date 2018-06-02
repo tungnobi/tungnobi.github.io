@@ -2,13 +2,12 @@
 
 	{
 		"id" : "Game 1",
-		"date": "Thu 14.06.2018 21:00/Thu 14.06.18 9:00 PM",
+		"date": "Sat 02.06.2018 21:00/Thu 14.06.18 9:00 PM",
 		"round": "Round 1",
 		"team1": "Russia",
 		"team2": "Saudi Arabia",
 		"score": "- : -",
-		"details": "" ,
-		"isscore":"1"
+		"details": "" 
 	},
 
 	{
@@ -18,8 +17,7 @@
 		"team1": "Egypt",
 		"team2": "Uruguay",
 		"score": "- : -",
-		"details": "",
-		"isscore":"1"
+		"details": ""
 	},
 
 	{
@@ -29,8 +27,7 @@
 		"team1": "Morocco",
 		"team2": "Iran",
 		"score": "- : -",
-		"details": "",
-		"isscore":"1"
+		"details": ""
 	},
 
 	{
@@ -40,8 +37,7 @@
 		"team1": "Portugal",
 		"team2": "Spain",
 		"score": "- : -",
-		"details": "",
-		"isscore":"2"
+		"details": ""
 	},
 
 	{
@@ -51,8 +47,7 @@
 		"team1": "France",
 		"team2": "Australia",
 		"score": "- : -",
-		"details": "",
-		"isscore":"3"
+		"details": ""
 	},
 
 	{
@@ -62,8 +57,7 @@
 		"team1": "Argentina",
 		"team2": "Iceland",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -73,8 +67,7 @@
 		"team1": "Peru",
 		"team2": "Denmark",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -84,8 +77,7 @@
 		"team1": "Croatia",
 		"team2": "Nigeria",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -95,8 +87,7 @@
 		"team1": "Costa Rica",
 		"team2": "Serbia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -106,8 +97,7 @@
 		"team1": "Germany",
 		"team2": "Mexico",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -117,8 +107,7 @@
 		"team1": "Brazil",
 		"team2": "Switzerland",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -128,8 +117,7 @@
 		"team1": "Sweden",
 		"team2": "South Korea",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -139,8 +127,7 @@
 		"team1": "Belgium",
 		"team2": "Panama",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -150,8 +137,7 @@
 		"team1": "Tunisia",
 		"team2": "England",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -161,8 +147,7 @@
 		"team1": "Colombia",
 		"team2": "Japan",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -172,8 +157,7 @@
 		"team1": "Poland",
 		"team2": "Senegal",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 
@@ -184,8 +168,7 @@
 		"team1": "Russia",
 		"team2": "Egypt",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -195,8 +178,7 @@
 		"team1": "Portugal",
 		"team2": "Morocco",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -206,8 +188,7 @@
 		"team1": "Uruguay",
 		"team2": "Saudi Arabia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -217,8 +198,7 @@
 		"team1": "Iran",
 		"team2": "Spain",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -228,8 +208,7 @@
 		"team1": "Denmark",
 		"team2": "Australia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -239,8 +218,7 @@
 		"team1": "France",
 		"team2": "Peru",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -250,8 +228,7 @@
 		"team1": "Argentina",
 		"team2": "Croatia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -261,8 +238,7 @@
 		"team1": "Brazil",
 		"team2": "Costa Rica",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -272,8 +248,7 @@
 		"team1": "Nigeria",
 		"team2": "Iceland",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -283,8 +258,7 @@
 		"team1": "Serbia",
 		"team2": "Switzerland",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -294,8 +268,7 @@
 		"team1": "Belgium",
 		"team2": "Tunisia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -305,8 +278,7 @@
 		"team1": "South Korea",
 		"team2": "Mexico",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -316,8 +288,7 @@
 		"team1": "Germany",
 		"team2": "Sweden",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -327,8 +298,7 @@
 		"team1": "England",
 		"team2": "Panama",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -338,8 +308,7 @@
 		"team1": "Japan",
 		"team2": "Senegal",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -349,8 +318,7 @@
 		"team1": "Poland",
 		"team2": "Colombia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -360,8 +328,7 @@
 		"team1": "Saudi Arabia",
 		"team2": "Egypt",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -371,8 +338,7 @@
 		"team1": "Uruguay",
 		"team2": "Russia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -382,8 +348,7 @@
 		"team1": "Iran",
 		"team2": "Portugal",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -393,8 +358,7 @@
 		"team1": "Spain",
 		"team2": "Morocco",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -404,8 +368,7 @@
 		"team1": "Australia",
 		"team2": "Peru",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -415,8 +378,7 @@
 		"team1": "Denmark",
 		"team2": "France",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -426,8 +388,7 @@
 		"team1": "Iceland",
 		"team2": "Croatia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -437,8 +398,7 @@
 		"team1": "Nigeria",
 		"team2": "Argentina",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -448,8 +408,7 @@
 		"team1": "Mexico",
 		"team2": "Sweden",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -459,8 +418,7 @@
 		"team1": "South Korea",
 		"team2": "Germany",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -470,8 +428,7 @@
 		"team1": "Serbia",
 		"team2": "Brazil",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -481,8 +438,7 @@
 		"team1": "Switzerland",
 		"team2": "Costa Rica",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -492,8 +448,7 @@
 		"team1": "Japan",
 		"team2": "Poland",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -503,8 +458,7 @@
 		"team1": "Senegal",
 		"team2": "Colombia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -514,8 +468,7 @@
 		"team1": "England",
 		"team2": "Belgium",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -525,8 +478,7 @@
 		"team1": "Panama",
 		"team2": "Tunisia",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	
@@ -537,8 +489,7 @@
 		"team1": "1st Group C",
 		"team2": "2nd Group D",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -548,8 +499,7 @@
 		"team1": "1st Group A",
 		"team2": "2nd Group B",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -559,8 +509,7 @@
 		"team1": "1st Group B",
 		"team2": "2nd Group A",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -570,8 +519,7 @@
 		"team1": "1st Group D",
 		"team2": "2nd Group C",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -581,8 +529,7 @@
 		"team1": "1st Group E",
 		"team2": "2nd Group F",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -592,8 +539,7 @@
 		"team1": "1st Group G",
 		"team2": "2nd Group H",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -603,8 +549,7 @@
 		"team1": "1st Group F",
 		"team2": "2nd Group E",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -614,8 +559,7 @@
 		"team1": "1st Group H",
 		"team2": "2nd Group G",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	
@@ -626,8 +570,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -637,8 +580,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -648,8 +590,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -659,8 +600,7 @@
 		"team1": "Winner R. of 16",
 		"team2": "Winner R. of 16",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	
@@ -671,8 +611,7 @@
 		"team1": "Winner QF2",
 		"team2": "Winner QF1",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -682,8 +621,7 @@
 		"team1": "Winner QF4",
 		"team2": "Winner QF3",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -693,8 +631,7 @@
 		"team1": "Loser SF1",
 		"team2": "Loser SF2",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	},
 	
 	{
@@ -704,8 +641,7 @@
 		"team1": "Winner SF1",
 		"team2": "Winner SF2",
 		"score": "- : -",
-		"details": "",
-		"isscore":""
+		"details": ""
 	}
 
 ]
