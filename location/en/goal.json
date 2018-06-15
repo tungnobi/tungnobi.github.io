@@ -207,7 +207,12 @@
 	
 	{
 		"name": "Uruguay",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Uruguay"
+	},
+	{
+		"name": "Jose Gimenez",
+		"goal": "1",
+		"tag": "P Uruguay"
 	}
 ]
