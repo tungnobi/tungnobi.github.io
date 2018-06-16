@@ -99,10 +99,14 @@
 	
 	{
 		"name": "Iran",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Iran"
 	},
-	
+	{
+		"name": "Aziz Bouhaddouz (Morocco)",
+		"goal": "1",
+		"tag": "P Iran"
+	},
 	{
 		"name": "Japan",
 		"goal": "0",
@@ -150,7 +154,11 @@
 		"goal": "0",
 		"tag": "T Portugal"
 	},
-	
+	{
+		"name": "Cristiano Ronaldo",
+		"goal": "3",
+		"tag": "P Portugal"
+	},
 	{
 		"name": "Russia",
 		"goal": "5",
@@ -186,7 +194,16 @@
 		"goal": "0",
 		"tag": "T Spain"
 	},
-	
+	{
+		"name": "Diego Costa",
+		"goal": "2",
+		"tag": "P Spain"
+	},
+	{
+		"name": "Nacho",
+		"goal": "1",
+		"tag": "P Spain"
+	},
 	{
 		"name": "Sweden",
 		"goal": "0",
