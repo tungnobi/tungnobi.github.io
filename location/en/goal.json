@@ -2,9 +2,15 @@
 [
 	{
 		"name": "Argentina",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Argentina"
 	},
+	{
+		"name": "Sergio Agüero",
+		"goal": "1",
+		"tag": "P Argentina"
+	},
+	
 	{
 		"name": "Cheryshev",
 		"goal": "2",
@@ -27,8 +33,15 @@
 	},
 	{
 		"name": "Australia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Australia"
+	},
+	
+	
+	{
+		"name": "Mile Jedinak",
+		"goal": "1",
+		"tag": "P Australia"
 	},
 	
 	{
@@ -57,16 +70,27 @@
 	
 	{
 		"name": "Croatia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Croatia"
 	},
 	
 	{
+		"name": "Luka Modric",
+		"goal": "1",
+		"tag": "P Croatia"
+	},
+	
+	{
 		"name": "Denmark",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Denmark"
 	},
 	
+	{
+		"name": "Yussuf Poulsen",
+		"goal": "1",
+		"tag": "P Denmark"
+	},
 	{
 		"name": "Egypt",
 		"goal": "0",
@@ -81,10 +105,21 @@
 	
 	{
 		"name": "France",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T France"
 	},
 	
+	
+	{
+		"name": "Antoine Griezmann",
+		"goal": "1",
+		"tag": "P France"
+	},
+	{
+		"name": "Paul Pogba",
+		"goal": "1",
+		"tag": "P France"
+	},
 	{
 		"name": "Germany",
 		"goal": "0",
@@ -93,8 +128,13 @@
 	
 	{
 		"name": "Iceland",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Iceland"
+	},
+	{
+		"name": "Alfred Finnbogason",
+		"goal": "1",
+		"tag": "P Iceland"
 	},
 	
 	{
