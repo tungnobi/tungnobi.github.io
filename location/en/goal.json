@@ -52,10 +52,14 @@
 	
 	{
 		"name": "Brazil",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Brazil"
 	},
-	
+	{
+		"name": "Coutinho",
+		"goal": "1",
+		"tag": "P Brazil"
+	},
 	{
 		"name": "Colombia",
 		"goal": "0",
@@ -155,8 +159,13 @@
 	
 	{
 		"name": "Mexico",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Mexico"
+	},
+	{
+		"name": "Hirving Lozano",
+		"goal": "1",
+		"tag": "P Mexico"
 	},
 	
 	{
@@ -219,8 +228,14 @@
 	
 	{
 		"name": "Serbia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Serbia"
+	},
+	
+	{
+		"name": "Aleksandar Kolarov",
+		"goal": "1",
+		"tag": "P Serbia"
 	},
 	
 	{
@@ -252,10 +267,14 @@
 	
 	{
 		"name": "Switzerland",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Switzerland"
 	},
-	
+	{
+		"name": "Steven Zuber",
+		"goal": "1",
+		"tag": "P Switzerland"
+	},
 	{
 		"name": "Tunisia",
 		"goal": "0",
