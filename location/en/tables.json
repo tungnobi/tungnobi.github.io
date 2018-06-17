@@ -31,14 +31,14 @@
 	{
 		"group" : "Group E",
 		"teamNo" : "1. 2. 3. 4.",
-		"teamName" : "Brazil, Switzerland, Costa Rica, Serbia",
-		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+		"teamName" : "Serbia, Brazil, Switzerland, Costa Rica",
+		"status" : "1 1 3, 1 1 1, 1 1 1, 1 -1 0"
 	}, 
 	{
 		"group" : "Group F",
 		"teamNo" : "1. 2. 3. 4.",
-		"teamName" : "Germany, Mexico, Sweden, South Korea",
-		"status" : "0 0 0, 0 0 0, 0 0 0, 0 0 0"
+		"teamName" : "Mexico, Germany, Sweden, South Korea",
+		"status" : "1 1 3, 1 -1 0, 0 0 0, 0 0 0"
 	}, 
 	
 	{
