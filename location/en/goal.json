@@ -46,8 +46,19 @@
 	
 	{
 		"name": "Belgium",
-		"goal": "0",
+		"goal": "3",
 		"tag": "T Belgium"
+	},
+	
+	{
+		"name": "Romelu Lukaku",
+		"goal": "2",
+		"tag": "P Belgium"
+	},
+	{
+		"name": "Dries Mertens",
+		"goal": "1",
+		"tag": "P Belgium"
 	},
 	
 	{
@@ -103,8 +114,13 @@
 	
 	{
 		"name": "England",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T England"
+	},
+	{
+		"name": "Harry Kane",
+		"goal": "2",
+		"tag": "P England"
 	},
 	
 	{
@@ -261,8 +277,14 @@
 	},
 	{
 		"name": "Sweden",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Sweden"
+	},
+	
+	{
+		"name": "Andreas Granqvist",
+		"goal": "1",
+		"tag": "P Sweden"
 	},
 	
 	{
@@ -277,8 +299,13 @@
 	},
 	{
 		"name": "Tunisia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Tunisia"
+	},
+	{
+		"name": "Ferjani Sassi",
+		"goal": "1",
+		"tag": "P Tunisia"
 	},
 	
 	{
