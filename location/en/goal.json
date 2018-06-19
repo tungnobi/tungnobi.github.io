@@ -13,7 +13,7 @@
 	
 	{
 		"name": "Cheryshev",
-		"goal": "2",
+		"goal": "3",
 		"tag": "P Russia"
 	},
 	{
@@ -23,7 +23,7 @@
 	},
 	{
 		"name": "Artem Dzyuba",
-		"goal": "1",
+		"goal": "2",
 		"tag": "P Russia"
 	},
 	{
@@ -73,8 +73,13 @@
 	},
 	{
 		"name": "Colombia",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Colombia"
+	},
+	{
+		"name": "Juan Quintero",
+		"goal": "1",
+		"tag": "P Colombia"
 	},
 	
 	{
@@ -108,8 +113,14 @@
 	},
 	{
 		"name": "Egypt",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Egypt"
+	},
+	
+	{
+		"name": "Mohamed Salah",
+		"goal": "1",
+		"tag": "P Egypt"
 	},
 	
 	{
@@ -169,8 +180,20 @@
 	},
 	{
 		"name": "Japan",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Japan"
+	},
+	
+	
+	{
+		"name": "Shinji Kagawa",
+		"goal": "1",
+		"tag": "P Japan"
+	},
+	{
+		"name": "Yuya Osako",
+		"goal": "1",
+		"tag": "P Japan"
 	},
 	
 	{
@@ -210,8 +233,15 @@
 	
 	{
 		"name": "Poland",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Poland"
+	},
+	
+	
+	{
+		"name": "Grzegorz Krychowiak",
+		"goal": "1",
+		"tag": "P Poland"
 	},
 	
 	{
@@ -226,7 +256,7 @@
 	},
 	{
 		"name": "Russia",
-		"goal": "5",
+		"goal": "8",
 		"tag": "T Russia"
 	},
 	
@@ -238,8 +268,14 @@
 	
 	{
 		"name": "Senegal",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Senegal"
+	},
+	
+	{
+		"name": "M Baye Niang",
+		"goal": "1",
+		"tag": "P Senegal"
 	},
 	
 	{
