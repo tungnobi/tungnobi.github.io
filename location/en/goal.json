@@ -246,12 +246,12 @@
 	
 	{
 		"name": "Portugal",
-		"goal": "0",
+		"goal": "4",
 		"tag": "T Portugal"
 	},
 	{
 		"name": "Cristiano Ronaldo",
-		"goal": "3",
+		"goal": "4",
 		"tag": "P Portugal"
 	},
 	{
@@ -298,12 +298,12 @@
 	
 	{
 		"name": "Spain",
-		"goal": "0",
+		"goal": "4",
 		"tag": "T Spain"
 	},
 	{
 		"name": "Diego Costa",
-		"goal": "2",
+		"goal": "3",
 		"tag": "P Spain"
 	},
 	{
@@ -346,7 +346,7 @@
 	
 	{
 		"name": "Uruguay",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Uruguay"
 	},
 	{
@@ -354,4 +354,11 @@
 		"goal": "1",
 		"tag": "P Uruguay"
 	}
+	,
+	{
+		"name": "Luis Suárez",
+		"goal": "1",
+		"tag": "P Uruguay"
+	}
+	
 ]
