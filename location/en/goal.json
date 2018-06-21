@@ -33,14 +33,14 @@
 	},
 	{
 		"name": "Australia",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Australia"
 	},
 	
 	
 	{
 		"name": "Mile Jedinak",
-		"goal": "1",
+		"goal": "2",
 		"tag": "P Australia"
 	},
 	
@@ -90,24 +90,43 @@
 	
 	{
 		"name": "Croatia",
-		"goal": "1",
+		"goal": "4",
 		"tag": "T Croatia"
 	},
 	
 	{
 		"name": "Luka Modric",
+		"goal": "2",
+		"tag": "P Croatia"
+	},
+	
+	{
+		"name": "Ante Rebic",
 		"goal": "1",
 		"tag": "P Croatia"
 	},
 	
 	{
-		"name": "Denmark",
+		"name": "Ivan Rakitic",
 		"goal": "1",
+		"tag": "P Croatia"
+	},
+	
+	
+	{
+		"name": "Denmark",
+		"goal": "2",
 		"tag": "T Denmark"
 	},
 	
 	{
 		"name": "Yussuf Poulsen",
+		"goal": "1",
+		"tag": "P Denmark"
+	},
+	
+	{
+		"name": "Christian Eriksen",
 		"goal": "1",
 		"tag": "P Denmark"
 	},
@@ -136,7 +155,7 @@
 	
 	{
 		"name": "France",
-		"goal": "2",
+		"goal": "3",
 		"tag": "T France"
 	},
 	
@@ -151,6 +170,12 @@
 		"goal": "1",
 		"tag": "P France"
 	},
+	{
+		"name": "Kylian Mbappé",
+		"goal": "1",
+		"tag": "P France"
+	},
+	
 	{
 		"name": "Germany",
 		"goal": "0",
