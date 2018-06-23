@@ -63,11 +63,16 @@
 	
 	{
 		"name": "Brazil",
-		"goal": "1",
+		"goal": "3",
 		"tag": "T Brazil"
 	},
 	{
 		"name": "Coutinho",
+		"goal": "2",
+		"tag": "P Brazil"
+	},
+	{
+		"name": "Neymar",
 		"goal": "1",
 		"tag": "P Brazil"
 	},
@@ -240,8 +245,14 @@
 	
 	{
 		"name": "Nigeria",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Nigeria"
+	},
+	
+	{
+		"name": "Ahmed Musa",
+		"goal": "2",
+		"tag": "P Nigeria"
 	},
 	
 	{
@@ -305,12 +316,18 @@
 	
 	{
 		"name": "Serbia",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Serbia"
 	},
 	
 	{
 		"name": "Aleksandar Kolarov",
+		"goal": "1",
+		"tag": "P Serbia"
+	},
+	
+	{
+		"name": "Aleksandar Mitrovic",
 		"goal": "1",
 		"tag": "P Serbia"
 	},
@@ -350,7 +367,7 @@
 	
 	{
 		"name": "Switzerland",
-		"goal": "1",
+		"goal": "3",
 		"tag": "T Switzerland"
 	},
 	{
@@ -358,6 +375,19 @@
 		"goal": "1",
 		"tag": "P Switzerland"
 	},
+	
+	{
+		"name": "Granit Xhaka",
+		"goal": "1",
+		"tag": "P Switzerland"
+	},
+	
+	{
+		"name": "Xherdan Shaqiri",
+		"goal": "1",
+		"tag": "P Switzerland"
+	},
+	
 	{
 		"name": "Tunisia",
 		"goal": "1",
