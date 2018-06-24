@@ -37,15 +37,15 @@
 	{
 		"group" : "Group F",
 		"teamNo" : "1. 2. 3. 4.",
-		"teamName" : "Mexico, Sweden, Germany, South Korea",
-		"status" : "1 1 3, 1 1 3, 1 -1 0, 1 -1 0"
+		"teamName" : "Mexico, Germany, Sweden, South Korea",
+		"status" : "2 2 6, 2 0 3, 2 0 3, 2 -2 0"
 	}, 
 	
 	{
 		"group" : "Group G",
 		"teamNo" : "1. 2. 3. 4.",
 		"teamName" : "Belgium, England, Panama, Tunisia",
-		"status" : "1 3 3, 1 1 3, 1 -3 0, 1 -1 0"
+		"status" : "2 6 6, 1 1 3, 1 -3 0, 2 -4 0"
 	}, 
 	
 	{
