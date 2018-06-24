@@ -88,11 +88,26 @@
 	},
 	{
 		"name": "Colombia",
-		"goal": "1",
+		"goal": "4",
 		"tag": "T Colombia"
 	},
 	{
 		"name": "Juan Quintero",
+		"goal": "1",
+		"tag": "P Colombia"
+	},
+	{
+		"name": "Yerry Mina",
+		"goal": "1",
+		"tag": "P Colombia"
+	},
+	{
+		"name": "Radamel Falcao",
+		"goal": "1",
+		"tag": "P Colombia"
+	},
+	{
+		"name": "Juan Cuadrado",
 		"goal": "1",
 		"tag": "P Colombia"
 	},
@@ -159,12 +174,22 @@
 	
 	{
 		"name": "England",
-		"goal": "2",
+		"goal": "8",
 		"tag": "T England"
 	},
 	{
 		"name": "Harry Kane",
+		"goal": "5",
+		"tag": "P England"
+	},
+	{
+		"name": "John Stones",
 		"goal": "2",
+		"tag": "P England"
+	},
+	{
+		"name": "Jesse Lingard",
+		"goal": "1",
 		"tag": "P England"
 	},
 	
@@ -230,7 +255,7 @@
 	},
 	{
 		"name": "Japan",
-		"goal": "2",
+		"goal": "4",
 		"tag": "T Japan"
 	},
 	
@@ -242,6 +267,16 @@
 	},
 	{
 		"name": "Yuya Osako",
+		"goal": "1",
+		"tag": "P Japan"
+	},
+	{
+		"name": "Takashi Inui",
+		"goal": "1",
+		"tag": "P Japan"
+	},
+	{
+		"name": "Keisuke Honda",
 		"goal": "1",
 		"tag": "P Japan"
 	},
@@ -287,8 +322,14 @@
 	
 	{
 		"name": "Panama",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T Panama"
+	},
+	
+	{
+		"name": "Felipe Baloy",
+		"goal": "1",
+		"tag": "P Panama"
 	},
 	
 	{
@@ -334,12 +375,22 @@
 	
 	{
 		"name": "Senegal",
-		"goal": "2",
+		"goal": "4",
 		"tag": "T Senegal"
 	},
 	
 	{
 		"name": "M Baye Niang",
+		"goal": "1",
+		"tag": "P Senegal"
+	},
+	{
+		"name": "Sadio Mané",
+		"goal": "1",
+		"tag": "P Senegal"
+	},
+	{
+		"name": "Moussa Wagué",
 		"goal": "1",
 		"tag": "P Senegal"
 	},
