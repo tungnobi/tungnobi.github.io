@@ -46,17 +46,27 @@
 	
 	{
 		"name": "Belgium",
-		"goal": "3",
+		"goal": "8",
 		"tag": "T Belgium"
 	},
 	
 	{
 		"name": "Romelu Lukaku",
-		"goal": "2",
+		"goal": "4",
 		"tag": "P Belgium"
 	},
 	{
 		"name": "Dries Mertens",
+		"goal": "1",
+		"tag": "P Belgium"
+	},
+	{
+		"name": "Eden Hazard",
+		"goal": "2",
+		"tag": "P Belgium"
+	},
+	{
+		"name": "Michy Batshuayi",
 		"goal": "1",
 		"tag": "P Belgium"
 	},
@@ -183,10 +193,20 @@
 	
 	{
 		"name": "Germany",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Germany"
 	},
 	
+	{
+		"name": "Marco Reus",
+		"goal": "1",
+		"tag": "P Germany"
+	},
+	 {
+		"name": "Toni Kroos",
+		"goal": "1",
+		"tag": "P Germany"
+	},
 	{
 		"name": "Iceland",
 		"goal": "1",
@@ -228,11 +248,21 @@
 	
 	{
 		"name": "Mexico",
-		"goal": "1",
+		"goal": "3",
 		"tag": "T Mexico"
 	},
 	{
 		"name": "Hirving Lozano",
+		"goal": "1",
+		"tag": "P Mexico"
+	},
+	{
+		"name": "Carlos Vela",
+		"goal": "1",
+		"tag": "P Mexico"
+	},
+	{
+		"name": "Chicharito",
 		"goal": "1",
 		"tag": "P Mexico"
 	},
@@ -333,11 +363,16 @@
 	},
 	
 	{
+		"name": "Son Heung-Min",
+		"goal": "1",
+		"tag": "P South Korea"
+	},
+	{
 		"name": "South Korea",
-		"goal": "0",
+		"goal": "1",
 		"tag": "T South Korea"
 	},
-	
+	 
 	{
 		"name": "Spain",
 		"goal": "4",
@@ -355,12 +390,18 @@
 	},
 	{
 		"name": "Sweden",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Sweden"
 	},
 	
 	{
 		"name": "Andreas Granqvist",
+		"goal": "1",
+		"tag": "P Sweden"
+	},
+	
+	{
+		"name": "Ola Toivonen",
 		"goal": "1",
 		"tag": "P Sweden"
 	},
@@ -390,7 +431,7 @@
 	
 	{
 		"name": "Tunisia",
-		"goal": "1",
+		"goal": "3",
 		"tag": "T Tunisia"
 	},
 	{
@@ -398,7 +439,18 @@
 		"goal": "1",
 		"tag": "P Tunisia"
 	},
+	{
+		"name": "Dylan Bronn",
+		"goal": "1",
+		"tag": "P Tunisia"
+	},
+	{
+		"name": "Wahbi Khazri",
+		"goal": "1",
+		"tag": "P Tunisia"
+	},
 	
+	 
 	{
 		"name": "Uruguay",
 		"goal": "2",
