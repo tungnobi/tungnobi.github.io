@@ -45,13 +45,13 @@
 		"group" : "Group G",
 		"teamNo" : "1. 2. 3. 4.",
 		"teamName" : "Belgium, England, Panama, Tunisia",
-		"status" : "2 6 6, 1 1 3, 1 -3 0, 2 -4 0"
+		"status" : "2 6 6, 2 6 6, 2 -8 0, 2 -4 0"
 	}, 
 	
 	{
 		"group" : "Group H",
 		"teamNo" : "1. 2. 3. 4.",
-		"teamName" : "Senegal, Japan, Poland, Colombia",
-		"status" : "1 1 3, 1 1 3, 1 -1 0, 1 -1 0"
+		"teamName" : "Senegal, Japan, Colombia, Poland",
+		"status" : "2 1 4, 2 1 4, 2 2 3, 2 -4 0"
 	}
 ]
