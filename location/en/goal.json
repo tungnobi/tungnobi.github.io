@@ -2,11 +2,21 @@
 [
 	{
 		"name": "Argentina",
-		"goal": "1",
+		"goal": "3",
 		"tag": "T Argentina"
 	},
 	{
 		"name": "Sergio Agüero",
+		"goal": "1",
+		"tag": "P Argentina"
+	},
+	{
+		"name": "Lionel Messi",
+		"goal": "1",
+		"tag": "P Argentina"
+	},
+	{
+		"name": "Marcos Rojo",
 		"goal": "1",
 		"tag": "P Argentina"
 	},
@@ -120,7 +130,7 @@
 	
 	{
 		"name": "Croatia",
-		"goal": "4",
+		"goal": "6",
 		"tag": "T Croatia"
 	},
 	
@@ -141,7 +151,16 @@
 		"goal": "1",
 		"tag": "P Croatia"
 	},
-	
+	{
+		"name": "Milan Badelj",
+		"goal": "1",
+		"tag": "P Croatia"
+	},
+	{
+		"name": "Ivan Perisic",
+		"goal": "1",
+		"tag": "P Croatia"
+	},
 	
 	{
 		"name": "Denmark",
@@ -162,13 +181,13 @@
 	},
 	{
 		"name": "Egypt",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Egypt"
 	},
 	
 	{
 		"name": "Mohamed Salah",
-		"goal": "1",
+		"goal": "2",
 		"tag": "P Egypt"
 	},
 	
@@ -234,7 +253,7 @@
 	},
 	{
 		"name": "Iceland",
-		"goal": "1",
+		"goal": "2",
 		"tag": "T Iceland"
 	},
 	{
@@ -242,12 +261,33 @@
 		"goal": "1",
 		"tag": "P Iceland"
 	},
-	
+	{
+		"name": "Gylfi Sigurdsson",
+		"goal": "1",
+		"tag": "P Iceland"
+	},
+	 
 	{
 		"name": "Iran",
-		"goal": "1",
+		"goal": "4",
 		"tag": "T Iran"
 	},
+	{
+		"name": "Karim Ansarifard",
+		"goal": "1",
+		"tag": "P Iran"
+	},
+	{
+		"name": "Khalid Boutaïb",
+		"goal": "1",
+		"tag": "P Iran"
+	},
+	{
+		"name": "Youssef En-Nesyri",
+		"goal": "1",
+		"tag": "P Iran"
+	},
+	
 	{
 		"name": "Aziz Bouhaddouz (Morocco)",
 		"goal": "1",
@@ -310,13 +350,18 @@
 	
 	{
 		"name": "Nigeria",
-		"goal": "2",
+		"goal": "3",
 		"tag": "T Nigeria"
 	},
 	
 	{
 		"name": "Ahmed Musa",
 		"goal": "2",
+		"tag": "P Nigeria"
+	},
+	{
+		"name": "Victor Moses",
+		"goal": "1",
 		"tag": "P Nigeria"
 	},
 	
@@ -334,8 +379,18 @@
 	
 	{
 		"name": "Peru",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Peru"
+	},
+	{
+		"name": "André Carrillo",
+		"goal": "1",
+		"tag": "P Peru"
+	},
+	{
+		"name": "Paolo Guerrero",
+		"goal": "1",
+		"tag": "P Peru"
 	},
 	
 	{
@@ -353,12 +408,17 @@
 	
 	{
 		"name": "Portugal",
-		"goal": "4",
+		"goal": "5",
 		"tag": "T Portugal"
 	},
 	{
 		"name": "Cristiano Ronaldo",
 		"goal": "4",
+		"tag": "P Portugal"
+	},
+	{
+		"name": "Ricardo Quaresma",
+		"goal": "1",
 		"tag": "P Portugal"
 	},
 	{
@@ -369,8 +429,18 @@
 	
 	{
 		"name": "Saudi Arabia",
-		"goal": "0",
+		"goal": "2",
 		"tag": "T Saudi Arabia"
+	},
+	{
+		"name": "Salman Al Faraj",
+		"goal": "1",
+		"tag": "p Saudi Arabia"
+	},
+	{
+		"name": "Salem Al Dawsari",
+		"goal": "1",
+		"tag": "p Saudi Arabia"
 	},
 	
 	{
@@ -426,7 +496,7 @@
 	 
 	{
 		"name": "Spain",
-		"goal": "4",
+		"goal": "6",
 		"tag": "T Spain"
 	},
 	{
@@ -439,6 +509,17 @@
 		"goal": "1",
 		"tag": "P Spain"
 	},
+	{
+		"name": "Iago Aspas",
+		"goal": "1",
+		"tag": "P Spain"
+	},
+	{
+		"name": "Isco",
+		"goal": "1",
+		"tag": "P Spain"
+	},
+	
 	{
 		"name": "Sweden",
 		"goal": "2",
@@ -504,7 +585,7 @@
 	 
 	{
 		"name": "Uruguay",
-		"goal": "2",
+		"goal": "5",
 		"tag": "T Uruguay"
 	},
 	{
@@ -515,8 +596,13 @@
 	,
 	{
 		"name": "Luis Suárez",
-		"goal": "1",
+		"goal": "2",
 		"tag": "P Uruguay"
 	}
-	
+	,
+	{
+		"name": "Edinson Cavani",
+		"goal": "3",
+		"tag": "P Uruguay"
+	}
 ]
